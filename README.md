@@ -1,2 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/License-CC%20BY--SA--NC%204.0-blue)](LICENSE)  
+
+![MetroMik](images/MetroMik.jpg)
+
 # MetroMik
-A full-featured Metronome with a PIC microcontroller
