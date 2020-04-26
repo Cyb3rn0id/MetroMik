@@ -31,3 +31,6 @@ Here is a video showing how it works:
 - LM1117-3.3 or LD33 Voltage regulator
 - 4Ω 0.5W Speaker
 - a bunch or resistors and capacitors [see schematic](documents/metromik_schematic.png)
+- a Bahar Enclosures BMC-70012 enclosure
+  
+  
