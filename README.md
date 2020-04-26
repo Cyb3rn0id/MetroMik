@@ -4,7 +4,8 @@
 
 # MetroMik
 
-MetroMik is a Digital Metronome I built for my son Michele, hence the name. It's based around a PIC16F1825.  
+MetroMik is a Digital Metronome I built for my son Michele, hence the name. It's based around a PIC16F1825. Project is made for MPLAB X Ide using XC8 compiler and MPLAB Code Configurator.  
+
 Characteristics:
 - Powered by a 18650 LiPo Cell
 - Charging circuit
