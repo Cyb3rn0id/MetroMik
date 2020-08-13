@@ -21,17 +21,18 @@ Full project specs [are listed here](https://www.settorezero.com/wordpress/metro
 Here is a video showing how it works:  
 [![MAX7219sz PIC Lib Demo](https://img.youtube.com/vi/ZK1omlZPCnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZK1omlZPCnY)  
 
-# Components used
-- TP4056 Lipo Charging module
+# Components used  
+Those are sponsored links: if you buy some items following those links, you can support my works.
+- [TP4056 Lipo Charging module with protection](https://amzn.to/3awQYoh)
 - 18650 LiPo cell
-- SX1308 DC-DC Booster module
-- LM386 amplifier module
-- 74HC595 Static Drivig 3-digits 7-segments led display
-- PIC16F1825
-- Rotary Encoder with pushbuttons
-- LM1117-3.3 or LD33 Voltage regulator
+- [SX1308 DC-DC Booster module](https://amzn.to/31LTz9M)
+- [LM386 amplifier module](https://amzn.to/3iytzFy)
+- 74HC595 Static Driving 3-digits 7-segments led display
+- [PIC16F1825](https://amzn.to/33WuXho)
+- [Rotary Encoder with pushbutton](https://amzn.to/2XTK5Ic)
+- [LM1117-3.3 or LD33 Voltage regulator](https://amzn.to/30PDyQI)
 - 4Ω 0.5W Speaker
 - a bunch or resistors and capacitors [see schematic](documents/metromik_schematic.png)
-- a Bahar Enclosures BMC-70012 enclosure
+- [Bahar Enclosures BMC-70012 enclosure](https://amzn.to/31Mw14r)
   
   
