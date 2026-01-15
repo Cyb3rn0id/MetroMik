@@ -36,6 +36,6 @@ Following are sponsored links: if you buy some items following those links, you 
 - [LM1117-3.3 or LD33 Voltage regulator](https://amzn.to/4qnIMwB)
 - [4Ω 0.5W Speaker](https://amzn.to/3LtRrhS)
 
-[^1] The one I used has 3 small 7-segment-displays (digit) on it and actually is out of production. You can use a common [4-digits one](https://amzn.to/45bj7id) but it will require some code adjustement. That kind of display exists also in 3-digits format (but it will require code adjustement anyway)
+[^1] The one I used has 3 small 7-segment-displays (digit) on it and actually is out of production (I used the [OHO DY1](https://github.com/Cyb3rn0id/Display_OHO_DY1)). You can use a common [4-digits one](https://amzn.to/45bj7id) but it will require some code adjustement. That kind of display exists also in 3-digits format (but it will require code adjustement anyway)
   
   
